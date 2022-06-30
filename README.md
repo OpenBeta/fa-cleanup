@@ -9,6 +9,7 @@ Improving the quality of this metadata will not only enable efficient curation, 
 **A sample of existing FA data field in Red Rock Canyon, Nevada**
 - [**Levitation 29**](https://tacos.openbeta.io/climbs/18b3ec70-b1d8-590a-bdad-3bf26f4c143e)
   Jorge and Joanne Urioste/FFA: John Long, Lynn Hill & Joanne Urioste
+  
 - [**Crimson Chrysalis**](https://tacos.openbeta.io/climbs/28e8f602-f986-546c-917c-4d3d6ac0a2b4)
   Uriostes, 10/79
 - [**Spare Rib**](https://tacos.openbeta.io/climbs/bed58cf5-7abc-58cb-b562-2f28a574164e)
@@ -18,8 +19,17 @@ Improving the quality of this metadata will not only enable efficient curation, 
 - [**Adventure Punks**](https://tacos.openbeta.io/climbs/602a34c8-e601-5561-9fa9-8caaa233a3fb)
   Paul Van Betten, Richard Harrison, and Sal Mamusia, 1983
 
-As you can see there are may inconsistencies: Jorge vs George, Uriostes vs Jorge and Joanne Urioste, P. Van Betten vs Paul Van Betten, and J. Smith vs Jay Smith.
+As you can see there are many inconsistencies: 
 
-### How Can You Help
+- Jorge vs George
+- Uriostes vs Jorge and Joanne Urioste
+- P. Van Betten vs Paul Van Betten
+- J. Smith vs Jay Smith
+
+### How Can You Help?
 
 We're looking for a project lead to take on this initiative.  Please email viet at openbeta.io.
+
+### Licenses
+
+Code: MIT, Data: CC0
